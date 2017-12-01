@@ -1,0 +1,13 @@
+ul {
+	display: flex;
+}
+
+img {
+	width: 300px;
+	height: 650px;
+	transition: width 1.5s;
+}
+
+img:hover {
+    width: 750px;
+}
